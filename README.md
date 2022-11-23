@@ -14,6 +14,8 @@ The code was manually forked from https://github.com/ezynda3/go-chat, I add some
 ## How to use
 It's very simple to use, visit http://www.oddkits.com/chatboard from your PC, set a Room and Username for yourself(Default Room: @room0, user: b), then open it again in your Phone, enter the SAME Room, then you can chat(share) between the PC and Phone. Everyone in the same Room can see same messages.
 
+The server just forwards messages and save NOTHING! It's privacy friendly.
+
 
 All dependencies are located in the vendor folder so Go 1.6+ is required.
 
